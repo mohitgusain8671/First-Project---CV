@@ -2,7 +2,7 @@
   /* margin: 0;
   padding: 0; */
   box-sizing: border-box;
-  background-color: cornflowerblue;
+  background-color: lightskyblue;
   font-family: monospace; 
 }
 #first{
@@ -27,6 +27,9 @@ h1{
     color: purple;
     padding: 10px;
     font-family:'Segoe UI'; 
+}
+.shortcut{
+    margin-top: 60px;
 }
 table{
     border: 2px solid black;
