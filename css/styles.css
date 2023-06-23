@@ -58,3 +58,16 @@ td{
     cursor: pointer;
     color: brown;
 }
+.link:active{
+    cursor: pointer;
+    color: black;
+}
+.logo{
+    width: 35px;
+    margin: 5px;
+    height: 35px;
+}
+::selection{
+    color: lightskyblue;
+    background-color: purple;
+}
